@@ -1,2 +1,2 @@
 # HTML
-HTML Homework Repository
+HTML Repository
